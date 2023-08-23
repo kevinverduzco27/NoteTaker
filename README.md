@@ -125,7 +125,7 @@ This Challenge is graded based on the following criteria:
 
 ### Bonus: +10 Points
 
-* Application allows users to delete notes.
+* The application allows users to delete notes.
 
 
 ## Review
